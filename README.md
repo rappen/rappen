@@ -1,16 +1,16 @@
 # Welcome to [@rappen](https://github.com/rappen)!
 
-## The Numbers
+## The Numbers 🔢
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=rappen&show_icons=true&theme=yeblu&count_private=true&include_all_commits=true)
 
-## The Social
+## The Social 💬
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rappen?color=blue&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?screen_name=rappen)
 
 [![Website](https://img.shields.io/website?label=jonasr.app&style=flat-square&up_message=all-systems-go&url=https%3A%2F%2Fjonasr.app)](https://jonasr.app)
 
-## The Stuff
+## The Stuff 🛠
 
 * A bunch of tools for the [XrmToolBox](https://www.xrmtoolbox.com)
 * Some repos with helpers and tools for [Microsoft Dataverse](https://docs.microsoft.com/en-us/powerapps/maker/data-platform/data-platform-intro?WT.mc_id=BA-MVP-5002475) development 
@@ -18,7 +18,7 @@
 * Some shared stuff from my blog at [jonasr.app](https://jonasr.app)
 * Most popular tool is used close to a million times yearly (2020) - see [fetchxmlbuilder.com](https://fetchxmlbuilder.com)
 
-## The Releases
+## The Releases 🚀
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/rappen/fetchxmlbuilder?style=flat-square&label=FetchXML%20Builder)
 ![Nuget](https://img.shields.io/nuget/dt/Cinteros.Xrm.FetchXMLBuilder?label=total%20downloads&style=flat-square)
