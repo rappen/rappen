@@ -47,6 +47,8 @@
 |![XRMTR](https://jonasr.app/wp-content/uploads/XRMTR-sharp2-024.png) | [![](https://img.shields.io/badge/XrmToolBox-XRM%20Tokens%20Runner-blue)](https://github.com/rappen/XRMTokensRun)| [![Nuget](https://img.shields.io/nuget/dt/Rappen.XrmToolBox.XRMTokensRunner?label=total%20dl&style=flat-square)](https://www.nuget.org/packages/Rappen.XrmToolBox.XRMTokensRunner/) | ![AzDO](https://img.shields.io/azure-devops/build/jonasrapp/GitHub%2520Builds/23?style=flat-square) | [![GitHub](https://img.shields.io/github/v/release/rappen/XRMTokensRun?style=flat-square)](https://github.com/rappen/XRMTokensRun/releases) |
 |🐤 | [![](https://img.shields.io/badge/Plugin-RappCanary365-blue)](https://github.com/rappen/RappCanary365)| | | [![GitHub](https://img.shields.io/github/v/release/rappen/RappCanary365?style=flat-square)](https://github.com/rappen/RappCanary365/releases) |
 |💻 | [![](https://img.shields.io/badge/Code-Rappen.XTB.Helper-blue)](https://github.com/rappen/Rappen.XTB.Helper)| | | [![GitHub](https://img.shields.io/github/v/release/rappen/Rappen.XTB.Helper?style=flat-square)](https://github.com/rappen/Rappen.XTB.Helper/releases) |
+|💻 | [![](https://img.shields.io/badge/Code-RappSack-blue)](https://github.com/rappen/RappSack)| | | [![GitHub](https://img.shields.io/github/v/release/rappen/RappSack?style=flat-square)](https://github.com/rappen/RappSack/releases) |
+
 
 
 <!--
